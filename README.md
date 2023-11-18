@@ -2,9 +2,7 @@
 
 ## General Info
 
-Deployed Link: https://case1440.github.io/animated-octo-computing-machine/
-
-Public Github Repo: https://github.com/Case1440/animated-octo-computing-machine
+Public Github Repo: https://github.com/Case1440/super-succotash
 
 ## User Story
 
@@ -45,7 +43,7 @@ The Project was created with:
 
 ## walkthrough
 
-
+https://github.com/Case1440/super-succotash/blob/main/Untitled_%20Nov%2018%2C%202023%2012_09%20AM.webm
 
 ## Summary
 
