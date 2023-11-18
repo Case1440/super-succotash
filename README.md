@@ -47,7 +47,7 @@ https://github.com/Case1440/super-succotash/blob/main/Untitled_%20Nov%2018%2C%20
 
 ## Summary
 
--The goal was to create a basic portfolio that I can build onto as I go and so that future employers can see my work that I have done.
+-The goal was to create a interface using mysql to allow employeers to easily view, change, or delete all roles, departments, and employees.
 
 ## Authors
 
